@@ -1,0 +1,48 @@
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\csc.exe
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\System.Collections.Immutable.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\vbc.exe
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\VBCSCompiler.exe
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\roslyn\VBCSCompiler.exe.config
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\Webform_Training.dll.config
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\Webform_Training.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\Webform_Training.pdb
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\obj\Debug\Webform_Training.csprojResolveAssemblyReference.cache
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\obj\Debug\Webform_Training.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\obj\Debug\Webform_Training.pdb
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\EntityFramework.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\EntityFramework.SqlServer.dll
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\EntityFramework.xml
+c:\users\el-fayomi\documents\visual studio 2015\Projects\Webform_Training\Webform_Training\bin\EntityFramework.SqlServer.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\csc.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\System.Collections.Immutable.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\vbc.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\VBCSCompiler.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\roslyn\VBCSCompiler.exe.config
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\Webform_Training.dll.config
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\Webform_Training.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\Webform_Training.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\EntityFramework.SqlServer.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\EntityFramework.SqlServer.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\obj\Debug\Webform_Training.csprojResolveAssemblyReference.cache
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\obj\Debug\Webform_Training.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK-PROJECTS\ASP-NET-C-Sharp\Webform_Training\Webform_Training\obj\Debug\Webform_Training.pdb
